@@ -1,1 +1,13 @@
-{:schema "etzhayyim.repository/v1" :name "com-etzhayyim-app-organism" :kind :app :canonical-metadata :edn}
+{:schema "etzhayyim.repository/v1"
+ :name "com-etzhayyim-app-organism"
+ :kind :app
+ :canonical-metadata :edn
+ :data-policy
+ {:public-generated-projections {:paths ["public/*.json" "public/*.kotoba.edn"]
+                                 :classification :explicit-public
+                                 :private-user-state-allowed? false}
+  :private-runtime-state {:query-location :local
+                          :git-policy :deny
+                          :persistence :kagi-chunked-edn-via-host
+                          :head :kotobase
+                          :transport :datalad}}}
