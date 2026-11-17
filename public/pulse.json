@@ -103,7 +103,7 @@
       "lastAt" : 1784253183000,
       "lastSubject" : "chore(tooling): promote require/-main tasks to kbb --backend sci -m (ADR-2607173000)"
     },
-    "etzhayyim-bpmn-sdk" : {
+    "itonami-bpmn-sdk" : {
       "commits" : 1,
       "lastAt" : 1784253183000,
       "lastSubject" : "chore(tooling): promote require/-main tasks to kbb --backend sci -m (ADR-2607173000)"
@@ -208,7 +208,7 @@
       "lastAt" : 1784253183000,
       "lastSubject" : "chore(tooling): promote require/-main tasks to kbb --backend sci -m (ADR-2607173000)"
     },
-    "etzhayyim-sdk-mock" : {
+    "itonami-sdk-mock" : {
       "commits" : 1,
       "lastAt" : 1784253183000,
       "lastSubject" : "chore(tooling): promote require/-main tasks to kbb --backend sci -m (ADR-2607173000)"
@@ -243,7 +243,7 @@
       "lastAt" : 1784253183000,
       "lastSubject" : "chore(tooling): promote require/-main tasks to kbb --backend sci -m (ADR-2607173000)"
     },
-    "etzhayyim-pregel" : {
+    "itonami-pregel" : {
       "commits" : 1,
       "lastAt" : 1784253183000,
       "lastSubject" : "chore(tooling): promote require/-main tasks to kbb --backend sci -m (ADR-2607173000)"
@@ -323,7 +323,7 @@
       "lastAt" : 1784253183000,
       "lastSubject" : "chore(tooling): promote require/-main tasks to kbb --backend sci -m (ADR-2607173000)"
     },
-    "etzhayyim-esign" : {
+    "itonami-esign" : {
       "commits" : 1,
       "lastAt" : 1784253183000,
       "lastSubject" : "chore(tooling): promote require/-main tasks to kbb --backend sci -m (ADR-2607173000)"
@@ -433,7 +433,7 @@
       "lastAt" : 1784253183000,
       "lastSubject" : "chore(tooling): promote require/-main tasks to kbb --backend sci -m (ADR-2607173000)"
     },
-    "etzhayyim-sdk" : {
+    "itonami-sdk" : {
       "commits" : 1,
       "lastAt" : 1784253183000,
       "lastSubject" : "chore(tooling): promote require/-main tasks to kbb --backend sci -m (ADR-2607173000)"
@@ -458,7 +458,7 @@
       "lastAt" : 1784253183000,
       "lastSubject" : "chore(tooling): promote require/-main tasks to kbb --backend sci -m (ADR-2607173000)"
     },
-    "etzhayyim-organism" : {
+    "itonami-organism" : {
       "commits" : 1,
       "lastAt" : 1784253183000,
       "lastSubject" : "chore(tooling): promote require/-main tasks to kbb --backend sci -m (ADR-2607173000)"
@@ -948,7 +948,7 @@
       "lastAt" : 1784253183000,
       "lastSubject" : "chore(tooling): promote require/-main tasks to kbb --backend sci -m (ADR-2607173000)"
     },
-    "etzhayyim-sdk-auth" : {
+    "itonami-sdk-auth" : {
       "commits" : 1,
       "lastAt" : 1784253183000,
       "lastSubject" : "chore(tooling): promote require/-main tasks to kbb --backend sci -m (ADR-2607173000)"
@@ -1004,7 +1004,7 @@
       "lastAt" : 1784253183000,
       "lastSubject" : "chore(tooling): promote require/-main tasks to kbb --backend sci -m (ADR-2607173000)"
     },
-    "etzhayyim-sdk-py" : {
+    "itonami-sdk-py" : {
       "commits" : 1,
       "lastAt" : 1784253183000,
       "lastSubject" : "chore(tooling): promote require/-main tasks to kbb --backend sci -m (ADR-2607173000)"
