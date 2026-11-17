@@ -4,7 +4,7 @@
   "mode" : "prepared",
   "councilRatified" : true,
   "was" : "keyless observational mirror (ADR-2606042330)",
-  "now" : "first-party disclosure-honest observatory actor (voiceOf=etzhayyim, isObservatory, present-only leashed did:key)",
+  "now" : "first-party disclosure-honest observatory actor (voiceOf=itonami, isObservatory, present-only leashed did:key)",
   "totals" : {
     "namespaces" : 1,
     "entities" : 14,

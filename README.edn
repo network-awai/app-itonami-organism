@@ -1,5 +1,5 @@
-{:schema "etzhayyim.repository/v1"
- :name "com-etzhayyim-app-organism"
+{:schema "itonami.repository/v1"
+ :name "app-itonami-organism"
  :kind :app
  :canonical-metadata :edn
  :data-policy

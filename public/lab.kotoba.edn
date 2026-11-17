@@ -1,4 +1,4 @@
-;; GENERATED kotoba Datom snapshot (etzhayyim.ie-flow.organism/-lab).
+;; GENERATED kotoba Datom snapshot (itonami.ie-flow.organism/-lab).
 ;; Per-actor bounded systems (boundary/index/sd) + colony ABM. [e a v tx op].
 [
 ["lab:actor:repo-git" :lab/actor "repo-git" 1 :add]

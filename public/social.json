@@ -1,6 +1,6 @@
 {
   "generatedAt" : "2026-07-03T07:16:45.361Z",
-  "actorDid" : "did:web:etzhayyim.com:actor:ibuki",
+  "actorDid" : "did:web:itonami.cloud:actor:ibuki",
   "lexicon" : "app.bsky.feed.post",
   "requiresMemberSignature" : true,
   "serverHeldKey" : false,
